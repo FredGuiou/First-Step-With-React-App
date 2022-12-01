@@ -2,7 +2,11 @@
 
 On this little smally sweet project I discovered the fundamentals about react.
 
+This is just a sample about react possibilities. (Just to learn some fundamentals and first steps)
+
 Here, some notions :
+
+- Creating a react app structurre easily
 
 - JSX
 - virtual DOM
