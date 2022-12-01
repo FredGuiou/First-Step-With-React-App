@@ -1,0 +1,5 @@
+/* On utilise des modules CSS pour éviter les conflits de noms de classe sont identiques dans deux modules différents. */
+.title {
+  color: #6C3483;
+  text-decoration: underline;
+}
