@@ -19,7 +19,7 @@ Here, some notions :
 - The events in react
 - Conditions
 - Send data to parent component
-- Curls in react
+- Loops in react
 - Fragments
 - Adding style on a component
 - Changing style on Hover
